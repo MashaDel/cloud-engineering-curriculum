@@ -35,11 +35,13 @@ Create first IAM admin user
   * (First) IAM admin user credentials: username, password, access key ID, secret access key 
 </details>
 
+
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 ---
 ### Exercise 4
 Install AWS CLI (***Command Line Interface***) for local Linux/MacOS
-  | [text](https://activate.workshop.aws/020_landingzone/prepare/local-side/steps/10-aws-cli.html)
   | [text](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
+  | [text](https://catalog.us-east-1.prod.workshops.aws/workshops/13304db2-f715-48bf-ada0-92e5c4eea945/en-US/020-landingzone/prepare/local-side/10-aws-cli)
 <details><summary>Show details</summary>
   
 * **What we have as a result (to check/validate)**
@@ -47,6 +49,7 @@ Install AWS CLI (***Command Line Interface***) for local Linux/MacOS
 </details>
 
 Setup AWS credentials for local Linux/MacOS shells
+  | [text](https://catalog.us-east-1.prod.workshops.aws/workshops/13304db2-f715-48bf-ada0-92e5c4eea945/en-US/020-landingzone/prepare/local-side/11-aws-profile)
 <details><summary>Show details</summary>
   
 * **What we have as a result (to check/validate)**
