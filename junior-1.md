@@ -25,8 +25,8 @@ Sign in to AWS Console (***AWS Management Console***) as an account root user
 ---
 ### Exercise 3
 Create first IAM admin user
-  | [text](https://activate.workshop.aws/020_landingzone/prepare/aws-side/administration/30-create-user.html)
-  | [video](https://www.youtube.com/watch?v=wRzzBb18qUw&t=321s)
+  | [text](https://catalog.us-east-1.prod.workshops.aws/workshops/13304db2-f715-48bf-ada0-92e5c4eea945/en-US/020-landingzone/prepare/aws-side/30-create-user)
+  | [video](https://www.youtube.com/watch?v=wRzzBb18qUw)
 <details><summary>Show details</summary>
   
 * **Details**
