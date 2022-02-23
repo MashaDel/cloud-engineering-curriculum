@@ -57,7 +57,7 @@ Setup AWS credentials for local Linux/MacOS shells
 ---
 ### Exercise 5
 Sign in to AWS Console as an IAM admin user
-  | [text](https://activate.workshop.aws/020_landingzone/prepare/aws-side/administration/40-sign-in-iam.html)
+  | [text](https://catalog.us-east-1.prod.workshops.aws/workshops/13304db2-f715-48bf-ada0-92e5c4eea945/en-US/020-landingzone/prepare/aws-side/40-sign-in-iam)
   | [text](https://docs.aws.amazon.com/IAM/latest/UserGuide/console.html#user-sign-in-page)
 <details><summary>Show details</summary>
   
