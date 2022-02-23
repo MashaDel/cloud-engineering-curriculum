@@ -35,8 +35,6 @@ Create first IAM admin user
   * (First) IAM admin user credentials: username, password, access key ID, secret access key 
 </details>
 
-
-https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 ---
 ### Exercise 4
 Install AWS CLI (***Command Line Interface***) for local Linux/MacOS
